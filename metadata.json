@@ -1,0 +1,6 @@
+{
+  "name": "Punarnava",
+  "description": "AI + IoT Enabled Waste-to-Wealth Ecosystem: Smart Segregation, Digital Dung Bank & Fair-Value Scrap Marketplace.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
